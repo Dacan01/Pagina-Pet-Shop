@@ -1,0 +1,191 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.secao-banner{
+    background-image:url(./img/banner-topo.jpg);
+    width: 100%;
+    padding: 120px 80px;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.nome{
+    max-width: 250px;
+    color: #3c184e;
+}
+
+.nome-pet{
+    font-size: 35px;
+    margin:0 0 5px 0;
+}
+
+.pata{
+    width: 30px;
+    margin: 0 5px 0 0;   
+}
+
+.descricao{
+    font-size: 14px;
+    text-align: center;
+    margin: 0;
+}
+
+.titulo-da-pagina{
+    max-width: 1024px;
+    border-radius: 10px;
+    padding: 40px;
+    margin:70px auto 0 auto;
+    background-color: #ffffffc4;
+    box-shadow:0 8px 32px #1f26875e;
+}
+
+h1{
+    font-size: 60px;
+    color: #3c184e;
+    text-align: center;
+    font-weight: 800;
+    margin: 0 0 40px 0;
+}
+
+.fale-conosco{
+    width: 200px;
+    padding: 10px 25px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-color: #3c184e;
+    font-size: 20px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+.whats{
+    width: 20px;
+}
+
+.servicos{
+    width: 100%;
+    padding: 120px 80px;
+}
+
+.titulo-servicos{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.lista{
+    max-width: 800px;
+    margin: 0 auto 45px auto;
+    color: #3c184e;
+}
+
+li{
+    font-size: 20px;
+    margin: 0 0 20px 0;
+}
+
+span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.imagens-lista{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.imagens-lista img{
+    border-radius: 5px;
+    box-shadow: 3px 6px 10px 6px #0000005c;
+}
+
+.faixa{
+    padding: 120px 80px;
+    background-color: #3c184e;
+    text-align: center;
+}
+
+.faixa p{
+    max-width: 800px;
+    margin: 0 auto 50px auto;
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+
+.faixa p span{
+    font-weight: 700;
+    font-style: italic;
+}
+
+.faixas img{
+    text-align: center;
+    margin: 0 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.marcas {
+    margin: 20px 0;
+}
+
+.marcas h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.marcas div{
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.marcas div img{
+    width: 148px;
+    height: 148px;
+    margin: 0 15px;
+}
+
+.localizacao h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin: 10px 0 45px 0;
+}
+
+.localizacao p{
+    font-size: 20px;
+    color: #3c184e;
+    text-align: center;
+    margin: 0 0 45px 0;
+}
+
+.localizacao iframe {
+    width: 800px;
+    height: 450px;
+    text-align: center;
+}
+
+.rodape{
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+
+.rodape p{
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
